@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_basic_habit_tracker/static/css/main.2da04b7d.css",
+    "main.js": "/react_basic_habit_tracker/static/js/main.2418c793.js",
+    "index.html": "/react_basic_habit_tracker/index.html",
+    "main.2da04b7d.css.map": "/react_basic_habit_tracker/static/css/main.2da04b7d.css.map",
+    "main.2418c793.js.map": "/react_basic_habit_tracker/static/js/main.2418c793.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2da04b7d.css",
+    "static/js/main.2418c793.js"
+  ]
+}
